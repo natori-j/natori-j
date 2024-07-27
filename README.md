@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={laughingdoghub}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laughingdog
 )](https://github.com/anuraghazra/github-readme-stats)
